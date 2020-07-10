@@ -2,7 +2,9 @@
 
 <h2>José Eugênio :computer:</h2>
 <hr>
-🌱 I’m currently learning React.js/Native/Node/JS/
+<ul>
+  <li>🌱 I’m currently learning React.js/Native/Node/JS/</li>
+</ul>
 
 
 <!--
