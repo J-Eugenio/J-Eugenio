@@ -1,9 +1,10 @@
-### Hi there 👋
-
 <h2>José Eugênio :computer:</h2>
 <hr>
+<h4>hi! 😁 Welcome to my profile</h4>
 <ul>
   <li>🌱 I’m currently learning React.js/Native/Node/JS/</li>
+  <li>🌟 I likeb back-end development</li>
+  <li>😜 even so I develop in front-end</li>
 </ul>
 
 
