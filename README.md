@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h2>José Eugênio</h2>
+<hr>
+🌱 I’m currently learning React.js/Native/Node/JS/
+
+
 <!--
 **J-Eugenio/J-Eugenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
