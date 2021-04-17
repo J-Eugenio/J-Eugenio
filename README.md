@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 <a style="text-decoration: none;" href="https://www.javascript.com/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
 </a>
+<a style="text-decoration: none;" href="https://isocpp.org/">
+  <img height="32" src="https://isocpp.org/favicon.ico" alt="C++"/>
+</a>
 <a style="text-decoration: none;" href="https://www.docker.com/">
   <img height="32" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="Docker"/>
 </a>
