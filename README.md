@@ -59,14 +59,11 @@ Here are some ideas to get you started:
 <a style="text-decoration: none;" href="https://www.javascript.com/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
 </a>
-<a style="text-decoration: none;" href="https://flutter.dev/">
-  <img height="32" src="https://flutter.dev/images/favicon.png" alt="Flutter"/>
-</a>
-<a style="text-decoration: none;" href="https://dart.dev">
-  <img height="32" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart"/>
-</a>
 <a style="text-decoration: none;" href="https://www.docker.com/">
   <img height="32" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="Docker"/>
 </a>
 
 ----
+ [![J-Eugênio github stats](https://github-readme-stats.vercel.app/api?username=j-eugenio&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-eugenio&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
