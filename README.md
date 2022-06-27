@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
 </a>
 <a style="text-decoration: none;" href="https://nuxtjs.org/">
-  <img height="32" src="https://nuxtjs.org/favicon.ico" alt="NuxtJS"/>
+  <img height="32" src="[https://nuxtjs.org/favicon.ico](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/768px-Nuxt_logo.svg.png)" alt="NuxtJS"/>
 </a>
 <a style="text-decoration: none;" href="https://pt-br.reactjs.org/">
   <img height="32" src="https://pt-br.reactjs.org/favicon.ico" alt="React"/>
