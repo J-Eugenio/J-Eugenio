@@ -3,7 +3,7 @@
 <h4>hi! 😁 Welcome to my profile</h4>
 <ul>
   <li>🌱 I’m currently learning React.js/Native/Node/JS/Nest.JS//GraphQL</li>
-  <li>🌟 I likeb back-end development and low level programing</li>
+  <li>🌟 I liked back-end development and low level programing</li>
   <li>😜 even so I develop in front-end</li>
 </ul>
 
